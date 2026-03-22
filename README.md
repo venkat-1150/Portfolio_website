@@ -72,5 +72,3 @@ portfolio/
 ---
 
 ---
-
-> Built with ❤️ by E. Venkat Reddy
